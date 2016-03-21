@@ -1,4 +1,4 @@
-== README - updated
+The rails blog app -- by Ahmad Khreiss
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
